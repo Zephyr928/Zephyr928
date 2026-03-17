@@ -30,6 +30,7 @@ I am an experienced Systems Administrator with a strong background in managing e
 
 ###  Let's Connect!
  [willtrice928@gmail.com](mailto:willtrice928@gmail.com) 
+ [William Trice](link:https://www.linkedin.com/in/williamtrice928/)
  Bryan, Texas 
 
 *"Maintaining reliability while driving modernization."*
