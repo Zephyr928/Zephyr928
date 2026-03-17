@@ -7,30 +7,31 @@ I am an experienced Systems Administrator with a strong background in managing e
 
 ###  About Me
 **Current Role**: Systems Administrator II at Texas A&M, managing critical campus operations and enterprise server environments.
--  **Education**: B.S. in Information Technology from Western Governors University.
+-  **Education**: B.S. in Information Technology from Western Governors University, A.A.S. in Information Technology from Blinn College .
 -  **Learning Journey**: Mastering **Terraform**, **Ansible**, and advanced **GitHub** workflows to automate infrastructure.
--  **Key Experience**: I've managed over 120+ servers and developed secure PGP encryption workflows for cross-platform data transfers.
+-  **Enterprise Infrastructure**: Administering mission-critical Windows Server environment and managing Active Directory and Group Policy across multiple domains.
+-  **Virtualization**: Provisioning and maintaining enterprise-scale virtualization infrastructure using VMware vSphere and VxRail
+-  **Modernization & Security**: Leading domain controller migrations and implementing automated SSL/TLS certificate management.
 
 ###  Technical Expertise
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Operating Systems** | Windows Server (2016-2025), Linux (Rocky/Ubuntu) |
+| **Operating Systems** | Windows Server (2016-2025), Linux (Redhat/Ubuntu) |
 | **Virtualization** | VMware vSphere / VxRail |
 | **Directory Services** | Active Directory, Group Policy, DNS, DHCP |
 | **Cloud (Foundational)**| AWS Certified Cloud Practitioner |
 | **Infrastructure as Code** | **Current Focus**: Terraform, Ansible |
-| **Networking** | VLANs, TCP/IP, Firewalls, Routing |
+| **Networking** | VLANs, TCP/IP, Firewalls, Routing, Palo Alto |
 
 ###  Certifications
-**AWS**: Certified Cloud Practitioner 
-**CompTIA**: Network+, Security+, A+, Project+ 
-**Linux**: LPI Linux Essentials 
+- **AWS**: Certified Cloud Practitioner 
+- **CompTIA**: Network+, Security+, A+, Project+ 
+- **Linux**: LPI Linux Essentials 
 
 ---
 
 ###  Let's Connect!
- [willtrice928@gmail.com](mailto:willtrice928@gmail.com) 
- [William Trice](link:https://www.linkedin.com/in/williamtrice928/)
- Bryan, Texas 
+- **Email** [willtrice928@gmail.com](mailto:willtrice928@gmail.com) 
+- **Linkedin** [William Trice](https://www.linkedin.com/in/williamtrice928/)
 
 *"Maintaining reliability while driving modernization."*
