@@ -20,7 +20,7 @@ I am an experienced Systems Administrator with a strong background in managing e
 | **Virtualization** | VMware vSphere / VxRail |
 | **Directory Services** | Active Directory, Group Policy, DNS, DHCP |
 | **Cloud (Foundational)**| AWS Certified Cloud Practitioner |
-| **Infrastructure as Code** | **Current Focus**: Terraform, Ansible |
+| **Infrastructure as Code** | **Current Focus**: Terraform, Ansible, Github |
 | **Networking** | VLANs, TCP/IP, Firewalls, Routing, Palo Alto |
 
 ###  Certifications
