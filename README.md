@@ -6,7 +6,7 @@ I am an experienced Systems Administrator with a strong background in managing e
 ---
 
 ###  About Me
-- [cite_start] **Current Role**: Systems Administrator II at Texas A&M, managing critical campus operations and enterprise server environments[cite: 16, 17, 18].
+**Current Role**: Systems Administrator II at Texas A&M, managing critical campus operations and enterprise server environments[cite: 16, 17, 18].
 - [cite_start] **Education**: B.S. in Information Technology from Western Governors University[cite: 35].
 -  **Learning Journey**: Mastering **Terraform**, **Ansible**, and advanced **GitHub** workflows to automate infrastructure.
 - [cite_start] **Key Experience**: I've managed over 120+ servers and developed secure PGP encryption workflows for cross-platform data transfers[cite: 28, 32].
